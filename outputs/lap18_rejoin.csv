@@ -1,0 +1,10 @@
+driver,historical_loss_case,pit_loss_s,observed_lap18_gap_s,position,rejoin_behind,gap_to_ahead_s,rejoin_ahead_of,gap_to_behind_s
+VER,low,19.727,0.000,14,HUL,2.678,BEA,2.138
+VER,median,21.652,0.000,14,HUL,4.603,BEA,0.213
+VER,high,24.918,0.000,15,BEA,3.053,ALO,5.130
+RUS,low,19.727,0.007,14,HUL,2.685,BEA,2.131
+RUS,median,21.652,0.007,14,HUL,4.610,BEA,0.206
+RUS,high,24.918,0.007,15,BEA,3.060,ALO,5.123
+ANT,low,19.727,1.206,14,HUL,3.884,BEA,0.932
+ANT,median,21.652,1.206,15,BEA,0.993,ALO,7.190
+ANT,high,24.918,1.206,15,BEA,4.259,ALO,3.924

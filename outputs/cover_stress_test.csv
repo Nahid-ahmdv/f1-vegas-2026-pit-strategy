@@ -1,0 +1,9 @@
+front_runner_pit_wave,verstappen_pit_lap,russell_pit_lap,antonelli_pit_lap,antonelli_alternative_pit_lap,both_out_lap,russell_lead_after_both_out_s,russell_stop_gain_vs_both_staying_out_s,russell_stop_gain_from_traffic_s,russell_lead_at_lap_28_s,matched_late_soft_gain_s,antonelli_wait_gain_s,russell_position,russell_rejoin_behind,russell_gap_to_ahead_s,russell_rejoin_ahead_of,russell_gap_to_behind_s,antonelli_position,antonelli_rejoin_behind,antonelli_gap_to_ahead_s,antonelli_rejoin_ahead_of,antonelli_gap_to_behind_s
+False,,22,28,23,,,,,-17.6031,0.1050,0.1181,14,HUL,4.0860,BEA,2.2660,14,HUL,3.2590,BEA,5.3970
+False,22.0000,22,28,23,23.0000,0.3705,0.0000,0.0000,2.6714,0.1050,1.6181,13,HUL,4.0860,VER,0.2950,14,VER,0.9635,BEA,5.3970
+False,23.0000,22,28,23,24.0000,0.8950,0.4490,0.1015,1.3714,0.1050,2.6339,14,HUL,4.0860,BEA,2.2660,14,VER,2.2635,BEA,5.3970
+False,24.0000,22,28,23,25.0000,1.7124,1.1909,0.2234,1.6114,0.1050,0.6400,14,HUL,4.0860,BEA,2.2660,14,VER,2.0235,BEA,5.3970
+True,,22,28,23,,,,,-17.6031,0.1050,-0.8600,13,HUL,4.0860,BEA,2.2660,8,HAD,1.1979,NOR,0.2252
+True,22.0000,22,28,23,23.0000,0.3705,0.0000,0.0000,2.6714,0.1050,0.6400,12,HUL,4.0860,VER,0.2950,8,VER,0.9635,NOR,0.2085
+True,23.0000,22,28,23,24.0000,0.8950,0.4490,0.1015,1.3714,0.1050,1.6400,13,HUL,4.0860,BEA,2.2660,8,HAD,1.2285,NOR,0.1954
+True,24.0000,22,28,23,25.0000,1.7124,1.1909,0.2234,1.6114,0.1050,-0.3600,13,HUL,4.0860,BEA,2.2660,8,HAD,0.2285,NOR,0.1711

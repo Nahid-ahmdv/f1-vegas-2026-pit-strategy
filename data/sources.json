@@ -1,0 +1,140 @@
+{
+  "11420_sessions.json": {
+    "url": "https://api.openf1.org/v1/sessions?session_key=11420",
+    "sha256": "60afa8fd6182bb9b6ca25725c126d359f2c393dffe192f86ba81d55d12854688",
+    "bytes": 367,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "11420_drivers.json": {
+    "url": "https://api.openf1.org/v1/drivers?session_key=11420",
+    "sha256": "fd4722c229338af96b1c81563eb56e21b5190f2c1ee86b647397e78d12c88a8e",
+    "bytes": 9024,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "11420_laps.json": {
+    "url": "https://api.openf1.org/v1/laps?session_key=11420",
+    "sha256": "958ce5c370074a890c767abe8385839db8e9eb8933c5b1fb85dfccf0b08c177d",
+    "bytes": 470067,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "11420_pit.json": {
+    "url": "https://api.openf1.org/v1/pit?session_key=11420",
+    "sha256": "d270b1f86fc347b57acb228f7150053e30a4e8e43d2110422a0846c217d6f4e9",
+    "bytes": 4201,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "11420_stints.json": {
+    "url": "https://api.openf1.org/v1/stints?session_key=11420",
+    "sha256": "1027e947960a4b40b2ecfdf641d52e4871a73e87afe4901b887aa984ecd3af69",
+    "bytes": 6532,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "11420_race_control.json": {
+    "url": "https://api.openf1.org/v1/race_control?session_key=11420",
+    "sha256": "c98298a03ceaa43d45b416f4c37fd737b09b034ba7c4fad446f712999b0a53fb",
+    "bytes": 28221,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "11415_sessions.json": {
+    "url": "https://api.openf1.org/v1/sessions?session_key=11415",
+    "sha256": "1c95097bad026ee059ee314f0d2f74fbddb50cdfb7fb5d8138b309deb9ef4f9b",
+    "bytes": 377,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "11415_laps.json": {
+    "url": "https://api.openf1.org/v1/laps?session_key=11415",
+    "sha256": "d73cd23f38de885965edc72336bbef5255b20a8599139230924a06a75a68d23b",
+    "bytes": 300446,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "11415_stints.json": {
+    "url": "https://api.openf1.org/v1/stints?session_key=11415",
+    "sha256": "47fc56fb11115a5fc99e495af38cb7e481c06ced3ab5893856269361fb7efd03",
+    "bytes": 10432,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "11415_race_control.json": {
+    "url": "https://api.openf1.org/v1/race_control?session_key=11415",
+    "sha256": "3bc3eb8d01a30dcd337be9c21489a0b717858664780e90ed37cb8238de96189a",
+    "bytes": 36804,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "9858_sessions.json": {
+    "url": "https://api.openf1.org/v1/sessions?session_key=9858",
+    "sha256": "b7eeb2648666facb89891255dd2a0589dd49c16383fb3e937f6fff0a55fe6990",
+    "bytes": 366,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "9858_laps.json": {
+    "url": "https://api.openf1.org/v1/laps?session_key=9858",
+    "sha256": "8ec064197dc3a28abd263726eb53a797c34c33e51bc8e969e910836907c5f63d",
+    "bytes": 417370,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "9858_pit.json": {
+    "url": "https://api.openf1.org/v1/pit?session_key=9858",
+    "sha256": "a29cba08acf3de7b9c4aaf0c7ac920890ba2212489af5a0eca065cfb04ca7be2",
+    "bytes": 4174,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "9858_stints.json": {
+    "url": "https://api.openf1.org/v1/stints?session_key=9858",
+    "sha256": "5e654bd451b55db2c4798e69dd7cc9e00196238d724269bb21b6ec7f8b141a4e",
+    "bytes": 6339,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "9858_race_control.json": {
+    "url": "https://api.openf1.org/v1/race_control?session_key=9858",
+    "sha256": "49b111c21d22cb2c1d9ef61e0165de29a7fa8b5ecdf5ccd11c96343c87579ae6",
+    "bytes": 16249,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "2026_racehistorychart.pdf": {
+    "url": "https://www.fia.com/sites/default/files/2026_21_usa_f1_r0_timing_racehistorychart_v01.pdf",
+    "sha256": "541f1ade6ad81b6c015965a644d7d27d08554084fe9412afb818457e9d76676b",
+    "bytes": 401788,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "2026_racelapanalysis.pdf": {
+    "url": "https://www.fia.com/sites/default/files/2026_21_usa_f1_r0_timing_racelapanalysis_v01.pdf",
+    "sha256": "726a989efcdea615cfc15237c3d59dd8d06dab2432ad1207f8ec1340ea41cb66",
+    "bytes": 398788,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "2026_racepitstopsummary.pdf": {
+    "url": "https://www.fia.com/sites/default/files/2026_21_usa_f1_r0_timing_racepitstopsummary_v01.pdf",
+    "sha256": "6be4013e1620a37af8f912a709536241ee26657b8c4cce91d4035764c200a14f",
+    "bytes": 341608,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "2026_raceracecontrolmessages.pdf": {
+    "url": "https://www.fia.com/sites/default/files/2026_21_usa_f1_r0_timing_raceracecontrolmessages_v01.pdf",
+    "sha256": "f2d9fd4153077a936de75ddb82c07b708152a17d4f444a7a7f6d28af8e0106a0",
+    "bytes": 343647,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "2025_racelapanalysis.pdf": {
+    "url": "https://www.fia.com/sites/default/files/2025_22_usa_f1_r0_timing_racelapanalysis_v01.pdf",
+    "sha256": "e1c82bf9bd5ef2085c7fe477d89a6ad9f0df9110ed08136d47607f8a07af00f3",
+    "bytes": 396766,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "2025_raceracecontrolmessages.pdf": {
+    "url": "https://www.fia.com/sites/default/files/2025_22_usa_f1_r0_timing_raceracecontrolmessages_v01.pdf",
+    "sha256": "1fc2d46b24542de82bbbd7acd02e3001feb2eab79665fb1813b21bbeef7cae0f",
+    "bytes": 344603,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "2026_fp3_laps.pdf": {
+    "url": "https://www.fia.com/sites/default/files/2026_21_usa_f1_p3_timing_thirdpracticesessionlaptimes_v01.pdf",
+    "sha256": "5e8871c95edaa0b4b4e0b225caf35171d29e5b96b4352717dd8fbb14d0b7c440",
+    "bytes": 375538,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  },
+  "2025_f1_pits.html": {
+    "url": "https://www.formula1.com/en/results/2025/races/1274/las-vegas/pit-stop-summary",
+    "sha256": "e4f1c9a482d2b161d6c11dab8915cbd50d5c4c6e56d1e5c24e95fee0cd3a04be",
+    "bytes": 453822,
+    "fetched_utc": "2026-11-24T04:46:58+00:00"
+  }
+}

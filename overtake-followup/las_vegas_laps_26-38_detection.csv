@@ -1,0 +1,14 @@
+lap,detection_leader_est,detection_second_est,detection_third_est,detection_rus_crossing_minus_ver_s_est,detection_rus_minus_ver_min_s_across_marker_and_reference_sensitivity,detection_rus_minus_ver_max_s_across_marker_and_reference_sensitivity,driver_directly_ahead_of_ver_at_detection_est,driver_directly_ahead_of_rus_at_detection_est,fia_finish_leader,fia_finish_rus_crossing_minus_ver_s,ver_detection_time_utc_est,overtake_enabled_at_detection,ver_behind_rus_at_detection_within_1s_then_leads_at_finish,rus_behind_ver_at_detection_within_1s_then_leads_at_finish
+26,VER,RUS,GAS,0.55,0.43,0.71,,VER,VER,0.92,2026-11-22T04:52:19.958+00:00,True,False,False
+27,VER,RUS,NOR,0.42,0.36,0.52,,VER,VER,0.147,2026-11-22T04:53:58.934+00:00,True,False,False
+28,RUS,VER,GAS,-0.33,-0.47,-0.27,RUS,,RUS,-0.15,2026-11-22T04:55:37.330+00:00,True,False,False
+29,VER,RUS,GAS,0.39,0.13,0.64,,VER,VER,0.461,2026-11-22T04:57:15.151+00:00,True,False,False
+30,VER,RUS,GAS,0.68,0.5,0.75,,VER,VER,0.262,2026-11-22T04:58:53.159+00:00,True,False,False
+31,RUS,VER,NOR,-0.4,-0.48,-0.31,RUS,,RUS,-0.199,2026-11-22T05:00:31.092+00:00,True,False,False
+32,VER,RUS,NOR,0.55,0.46,0.65,,VER,VER,0.287,2026-11-22T05:02:08.248+00:00,True,False,False
+33,VER,RUS,NOR,0.38,0.25,0.42,,VER,VER,0.017,2026-11-22T05:03:46.072+00:00,True,False,False
+34,NOR,VER,RUS,0.55,0.44,0.65,NOR,VER,VER,0.712,2026-11-22T05:05:23.985+00:00,True,False,False
+35,VER,RUS,NOR,0.69,0.57,0.77,,VER,VER,0.415,2026-11-22T05:07:01.197+00:00,True,False,False
+36,VER,RUS,ANT,0.35,0.34,0.43,,VER,RUS,-0.042,2026-11-22T05:08:38.903+00:00,True,False,True
+37,RUS,VER,ANT,-0.35,-0.44,-0.27,RUS,,RUS,-0.184,2026-11-22T05:10:16.475+00:00,True,False,False
+38,VER,ANT,RUS,0.87,0.76,0.92,,ANT,VER,0.468,2026-11-22T05:11:53.381+00:00,True,False,False
